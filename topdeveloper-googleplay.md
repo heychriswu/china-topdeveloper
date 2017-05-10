@@ -77,7 +77,7 @@ Top Developer is a badge recognizing established, respected developers for their
 |  35 | [PinGuo Inc.](https://play.google.com/store/apps/dev?id=7074450904720558835)| [Fotor图片编辑器](https://goo.gl/AJg379)| 成都品果科技有限公司|
 |  36 | [QuVideo Inc.](https://play.google.com/store/apps/dev?id=8999952960853938956)| [小 影](https://goo.gl/HKhSzJ)| 杭州趣维科技有限公司|  
 |  37 | [Revontulet Soft Inc](https://play.google.com/store/apps/dev?id=8275375362039736860)| [完美钢琴](https://goo.gl/kVkIi1)| 北京联动科技有限公司|  
-|  38 | [Sixjoy Limited](https://play.google.com/store/apps/dev?id=7045166111016323804)| [怪物城堡](https://goo.gl/R4JMPN)| 深圳市腾讯计算机系统有限公司（香港）|  
+|  38 | [Sixjoy Limited](https://play.google.com/store/apps/dev?id=7045166111016323804)| [怪物城堡](https://goo.gl/FMDiOT)| 深圳市腾讯计算机系统有限公司（香港）|  
 |  39 | [Solo Launcher Team](https://play.google.com/store/apps/dev?id=8380470199899417697)| [Solo桌面](https://goo.gl/K2VwMI)| 北京赤子城网络科技有限公司| 
 |  40 | [tap4fun](https://play.google.com/store/apps/developer?id=tap4fun)| [战地风暴](https://goo.gl/meH1OP)|成都尼毕鲁科技股份有限公司| 
 |  41 | [TouchPal](https://play.google.com/store/apps/developer?id=TouchPal)| [触宝输入法](https://goo.gl/vs4rNL)| 上海触宝信息技术有限公司| 
