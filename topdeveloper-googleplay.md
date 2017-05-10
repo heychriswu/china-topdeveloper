@@ -42,7 +42,7 @@ Top Developer is a badge recognizing established, respected developers for their
 | :------: |:-------: |    :-------:    |  ------   | 
 |  1 | [摩 利 ](https://play.google.com/store/apps/dev?id=5789166042790472470)    | [女神圣域](https://goo.gl/q3zvRK)    | 摩利数位行销股份有限公司|  
 |  2 | [摩 利（代理发行）](https://play.google.com/store/apps/dev?id=5789166042790472470)| [太极熊猫](https://goo.gl/q3zvRK)| 苏州蜗牛数字科技股份有限公司|    
-|  3 | [Alibaba.com Hong Kong Limited](https://play.google.com/store/apps/developer?id=Alibaba.com+Hong+Kong+Limited)| [速卖通](https://goo.gl/Xq15yx)|全球速卖通(杭州阿里巴巴有限公司)|  
+|  3 | [Alibaba Mobile](https://play.google.com/store/apps/developer?id=Alibaba.com+Hong+Kong+Limited)| [速卖通](https://goo.gl/Xq15yx)|全球速卖通(杭州阿里巴巴有限公司)|  
 |  4 | [Amber Weather Dev Team](https://play.google.com/store/apps/dev?id=7686194056937543414)| [琥珀天气](https://goo.gl/crSHrX)| 北京琥珀创想科技有限公司| 
 |  5 | [Appest Inc.](https://play.google.com/store/apps/dev?id=7269704759597705101)| [滴答清单](https://goo.gl/lkerOK)| 杭州随笔记网络技术有限公司| 
 |  6 | [Camel Games](https://play.google.com/store/apps/dev?id=7150668333233092058)| [小小帝国](https://goo.gl/VQiwQk)| 霍尔果斯小小橙软件开发有限责任公司| 
